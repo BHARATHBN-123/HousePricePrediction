@@ -1,1 +1,4 @@
-This is req.txt
+Flask
+pickle5
+numpy
+pandas
